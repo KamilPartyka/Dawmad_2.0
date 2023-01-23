@@ -25,6 +25,6 @@ export const theme = {
     },
   },
   shadows: {
-    box: '0 4px 7px rgba(0, 0, 0, 0.2)',
+    box: '0 4px 7px rgba(0, 0, 0, 0.3)',
   },
 };
